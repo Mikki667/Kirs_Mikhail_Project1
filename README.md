@@ -18,11 +18,12 @@ You can open it by clicking in index file with your choice of browser.
 
 ## History
 
-TODO: Write history
+Folder structure
+html and css update
 
 ## Credits
 
-## Mikhail Kirs
+Mikhail Kirs
 
 ## License
 
